@@ -24,16 +24,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=aditya-hegde02&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-hegde02&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hegdeadi&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hegdeadi&theme=aura&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hegdeadi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditya-hegde02&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hegdeadi&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Aditya-Hegde02/Aditya/44f4619a7028c58334d51b538c6adc7cd1dfa575/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hegdeadi/Aditya/44f4619a7028c58334d51b538c6adc7cd1dfa575/snake.svg" alt="Snake animation" />
 
 
